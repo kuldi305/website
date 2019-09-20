@@ -1,3 +1,3 @@
-FROM kuldi/apache
+FROM hshar/webapp
 ADD . /var/www/html
 
